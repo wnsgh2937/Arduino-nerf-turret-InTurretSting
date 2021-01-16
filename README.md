@@ -9,22 +9,17 @@ InTurretSting - Arduino nerf turret using infrared distance sensor(VL53L1X)
 - Code Explain
 
 ## Background
-First, I want to use radar sensor. 
-But radar sensor is too expansive, so I decided to make radar system by using distance sensor. 
-And I thought turret is best for using radar system. 
-So I finally decided to make turret that has auto enemy detecting radar system by using distnace sensor. 
-I want to make the radar system that can detect 3m long object. 
-There are many distance sensors using ultrasonic wave, infrared, raser. 
-Raser sensor can detect far object but is expensive and ultrasonic wave sensor is cannot detect even 1m far object. 
-There is VL53L1X can detect 3m far object in infrared distance sensor. 
-And I made it all. I hope it will be help for who want to make turret.
+First, I want to use radar sensor. But radar sensor is too expansive, so I decided to make radar system by using distance sensor. 
+And I thought turret is best for using radar system. So I finally decided to make turret that has auto enemy detecting radar system by using distnace sensor. I want to make the radar system that can detect 3m long object. <br> 
+There are many distance sensors using ultrasonic wave, infrared, raser. Raser sensor can detect far object but is expensive and ultrasonic wave sensor is cannot detect even 1m far object. There is VL53L1X can detect 3m far object in infrared distance sensor. 
+<br>And I made it all. I hope it will be help for who want to make turret.
 
 ## Install
 Just download the code and libraries.
 And import "In_turret_Sting" code to Arudino board.
 
 ## Video
-[This](https://youtu.be/yleDrqbNKQg) is my test video
+[This](https://youtu.be/yleDrqbNKQg) is my test video <br>
 <u>*please turn on the subscript*</u>
 
 ## Important Materials
