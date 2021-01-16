@@ -5,8 +5,7 @@ InTurretSting - Arduino nerf turret using infrared distance sensor(VL53L1X)
 - Background
 - Install
 - Video
-- Important Materials
-- Code Explain
+- Important Material
 
 ## Background
 First, I want to use radar sensor. But radar sensor is too expansive, so I decided to make radar system by using distance sensor. 
@@ -16,7 +15,7 @@ There are many distance sensors using ultrasonic wave, infrared, raser. Raser se
 
 ## Install
 Just download the code and libraries.
-And import "In_turret_Sting" code to Arudino board.
+And import "In_turret_Sting" arduino code to Arudino board.
 
 ## Video
 [This](https://youtu.be/yleDrqbNKQg) is my test video <br>
@@ -30,5 +29,3 @@ And import "In_turret_Sting" code to Arudino board.
 - PAN14EE12AA1 2ea ( DC Motor )
 - 3 Color LED ( Anode Type )
 - Arduino UNO Board 1ea
-
-## Code Explaination
